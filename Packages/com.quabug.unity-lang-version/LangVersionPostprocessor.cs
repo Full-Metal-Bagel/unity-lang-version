@@ -7,7 +7,7 @@ using System.Xml.Linq;
 using UnityEditor;
 using UnityEngine.Device;
 
-namespace UnityLangVersion
+namespace UnityLangVersion.Editor
 {
     public class LangVersionPostprocessor : AssetPostprocessor
     {

@@ -1,0 +1,7 @@
+{
+  "name": "com.fullmetalbagel.unity-lang-version",
+  "version": "1.0.0",
+  "displayName": "Unity LangVersion",
+  "description": "replace project's `<LangVersion>` based on `-langVersion` option of \"csc.rsp\" file",
+  "unity": "2022.3"
+}
